@@ -17,6 +17,18 @@ This data engineering project uses the Adventure Works dataset to build a modern
    - Azure DataBricks
    - Azure Synapse Analytics(Data Warehouse)
 
+## Dataset Used
+1. AdventureWorks_Calendar
+2. AdventureWorks_Customers
+3. AdventureWorks_Product_Categories
+4. AdventureWorks_Product_Subcategories
+5. AdventureWorks_Products
+6. AdventureWorks_Returns
+7. AdventureWorks_Sales_2015
+8. AdventureWorks_Sales_2016
+9. AdventureWorks_Sales_2017
+10. AdventureWorks_Territories
+    
 ##  Project Snapshots
 ![Image](https://github.com/user-attachments/assets/6ea3d840-1f6c-4e1c-814d-3573b1bcd5bb)
 ![Image](https://github.com/user-attachments/assets/e0e2252f-7d6a-48c9-ab5f-c618b71e71a7)
