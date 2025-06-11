@@ -33,7 +33,7 @@ This data engineering project uses the Adventure Works dataset to build a modern
 
 ![Image](https://github.com/user-attachments/assets/f0e2ff55-6951-4522-9b98-668e520cc0fc)
 
-### Inserting the Tranformed data from Siver to Gold(Azure Synapse Analytics)
+### Inserting the Tranformed data from Silver to Gold(Azure Synapse Analytics)
 ![Image](https://github.com/user-attachments/assets/5afa4983-1df9-4e7b-b7ff-f35290d842b4)
 
 ![Image](https://github.com/user-attachments/assets/bb291686-9ae7-46ad-a136-094cd2774914)
